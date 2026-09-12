@@ -1,6 +1,10 @@
-Asio copy to reorganize for easier use in transferase
+Asio copy to reorganize for easier use in transferase and clean up code flagged
+by static analyzers.
 
 From original README:
 
-asio version 1.34.0
-Released Wednesday, 04 December 2024.
+asio version 1.38.2
+Released Sunday, 19 July 2026.
+
+Visit https://think-async.com/ or see packaged doc/index.html for API
+documentation and a tutorial.
