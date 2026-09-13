@@ -1,5 +1,6 @@
 Asio copy to reorganize for easier use in transferase and clean up code flagged
-by static analyzers.
+by static analyzers. Might not even be needed anymore; the sprintf was getting
+flagged in multiple sources but might be fixed upstream now.
 
 From original README:
 
